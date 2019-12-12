@@ -6,8 +6,4 @@
     <RootNamespace>cmd_algorithms</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="algorithms\" />
-  </ItemGroup>
-
 </Project>
