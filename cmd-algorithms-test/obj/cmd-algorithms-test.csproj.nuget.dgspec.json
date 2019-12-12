@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projects\\Github\\csharp-cmd-algorithms\\cmd-algorithms-test\\cmd-algorithms-test.csproj": {}
+  },
+  "projects": {
+    "D:\\projects\\Github\\csharp-cmd-algorithms\\cmd-algorithms-test\\cmd-algorithms-test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\Github\\csharp-cmd-algorithms\\cmd-algorithms-test\\cmd-algorithms-test.csproj",
+        "projectName": "cmd-algorithms-test",
+        "projectPath": "D:\\projects\\Github\\csharp-cmd-algorithms\\cmd-algorithms-test\\cmd-algorithms-test.csproj",
+        "packagesPath": "C:\\Users\\u015zxl\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\Github\\csharp-cmd-algorithms\\cmd-algorithms-test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\u015zxl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\projects\\Github\\csharp-cmd-algorithms\\cmd-algorithms\\cmd-algorithms.csproj": {
+                "projectPath": "D:\\projects\\Github\\csharp-cmd-algorithms\\cmd-algorithms\\cmd-algorithms.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\projects\\Github\\csharp-cmd-algorithms\\cmd-algorithms\\cmd-algorithms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\Github\\csharp-cmd-algorithms\\cmd-algorithms\\cmd-algorithms.csproj",
+        "projectName": "cmd-algorithms",
+        "projectPath": "D:\\projects\\Github\\csharp-cmd-algorithms\\cmd-algorithms\\cmd-algorithms.csproj",
+        "packagesPath": "C:\\Users\\u015zxl\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\Github\\csharp-cmd-algorithms\\cmd-algorithms\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\u015zxl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

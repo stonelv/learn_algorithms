@@ -1,0 +1,11 @@
+D:\projects\Github\csharp-cmd-algorithms\cmd-algorithms\bin\Debug\netcoreapp2.1\cmd-algorithms.deps.json
+D:\projects\Github\csharp-cmd-algorithms\cmd-algorithms\bin\Debug\netcoreapp2.1\cmd-algorithms.runtimeconfig.json
+D:\projects\Github\csharp-cmd-algorithms\cmd-algorithms\bin\Debug\netcoreapp2.1\cmd-algorithms.runtimeconfig.dev.json
+D:\projects\Github\csharp-cmd-algorithms\cmd-algorithms\bin\Debug\netcoreapp2.1\cmd-algorithms.dll
+D:\projects\Github\csharp-cmd-algorithms\cmd-algorithms\bin\Debug\netcoreapp2.1\cmd-algorithms.pdb
+D:\projects\Github\csharp-cmd-algorithms\cmd-algorithms\obj\Debug\netcoreapp2.1\cmd-algorithms.csprojAssemblyReference.cache
+D:\projects\Github\csharp-cmd-algorithms\cmd-algorithms\obj\Debug\netcoreapp2.1\cmd-algorithms.csproj.CoreCompileInputs.cache
+D:\projects\Github\csharp-cmd-algorithms\cmd-algorithms\obj\Debug\netcoreapp2.1\cmd-algorithms.AssemblyInfoInputs.cache
+D:\projects\Github\csharp-cmd-algorithms\cmd-algorithms\obj\Debug\netcoreapp2.1\cmd-algorithms.AssemblyInfo.cs
+D:\projects\Github\csharp-cmd-algorithms\cmd-algorithms\obj\Debug\netcoreapp2.1\cmd-algorithms.dll
+D:\projects\Github\csharp-cmd-algorithms\cmd-algorithms\obj\Debug\netcoreapp2.1\cmd-algorithms.pdb
